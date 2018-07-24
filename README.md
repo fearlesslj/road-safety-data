@@ -1,7 +1,7 @@
 Data science visualisation project on a UK Road Safety dataset
 -----
 
-**Note:** While the matplotlib graphs will show up even without running the notebook, the bokeh visualisations and the interactive elements will not work unless one runs the notebook locally. This repository does not contain the data files that were over the github 25MB limit, so for many of the visualisations to work the following two dataset zip files will need to be downloaded and unpacked in the notebook folder.
+**Note:** While the matplotlib graphs will show up even without running the notebook, the bokeh visualisations and the interactive elements will not work unless one runs the notebook locally. I have uploaded HTML versions of most of these visualisations, which give a reasonable idea of what they look like but without some significant interactive features (for example, the datashaded maps cannot update and one cannot change the parameters for the bar graph and heatmap). This repository does not contain the data files that were over the github 25MB limit, so for many of the visualisations to work the following two dataset zip files will need to be downloaded and unpacked in the notebook folder.
 
 2005-2014 data: http://data.dft.gov.uk.s3.amazonaws.com/road-accidents-safety-data/Stats19_Data_2005-2014.zip     
 1979-2004 data: http://data.dft.gov.uk/road-accidents-safety-data/Stats19-Data1979-2004.zip
